@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel Search Assistant - VoyageHack 2.0</title>
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.png') }}">
+</head>
+<body class="chat-body">
+<!-- Chat Container -->
+    <div class="chat-container">
+        <div class="chat-header">
+            <h2>Hotel Search Assistant</h2>
+        </div>
+        <div class="chat-messages" id="chatMessages">
+            <div class="message bot-message">
+                Hello Welcome to TBO VoyageHack 2.0! I can help you find the perfect hotel. You can type, speak, or upload an image to search.
+            </div>
+        </div>
+        <div class="loading" id="loading">Processing...</div>
+        <div class="input-container">
+            <input type="text" class="input-field" id="userInput" placeholder="Type your message...">
+            <div class="action-buttons">
+                <button type="button" id="sendBtn" title="Send"><i class="fa fa-paper-plane"></i></button>
+                <button type="button" id="voiceBtn" title="Voice Search"><i class="fa fa-microphone"></i></button>
+                <button type="button" id="imageBtn" title="Upload Image"><i class="fa fa-paperclip"></i></button>
+            </div>
+            <input type="file" id="imageInput" accept="image/*" style="display: none;">
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
