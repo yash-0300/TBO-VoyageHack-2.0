@@ -1,5 +1,7 @@
 # TBO AI-Powered Trip Planner
 
+![Application Home Page](https://github.com/yash-0300/TBO-VoyageHack-2.0/blob/main/TBO-Trip-Planner/Trip-Planner-MainPage.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -34,11 +36,11 @@ TBO Explore's AI Trip Planner is your 24/7 personal travel assistant, designed t
 
 ## Diagram
 
-![Architecture and User Flow]()
+![Architecture and User Flow](https://github.com/yash-0300/TBO-VoyageHack-2.0/blob/main/TBO-Trip-Planner/Trip-Planner.png)
 
 ## Screenshot
 
-![Application Home Page]()
+![Application Home Page](https://github.com/yash-0300/TBO-VoyageHack-2.0/blob/main/TBO-Trip-Planner/Trip-Planner-MainPage.png)
 
 ## Contributing
 
