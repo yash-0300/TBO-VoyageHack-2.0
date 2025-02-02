@@ -1,5 +1,7 @@
 # TBO Voice Calling AI Assitant
 
+![Application Home Page](https://github.com/yash-0300/TBO-VoyageHack-2.0/blob/main/TBO-Voice-Calling/Main%20Page.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
