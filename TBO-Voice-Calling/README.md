@@ -33,11 +33,11 @@ Say goodbye to long wait times and frustrating searches! With our revolutionary 
 
 ## Diagram
 
-![Architecture and User Flow]()
+![Architecture and User Flow](https://github.com/yash-0300/TBO-VoyageHack-2.0/blob/main/TBO-Voice-Calling/Voice-Calling.png)
 
 ## Screenshot
 
-![Application Home Page]()
+![Application Home Page](https://github.com/yash-0300/TBO-VoyageHack-2.0/blob/main/TBO-Voice-Calling/Main%20Page.png)
 
 ## Contributing
 
