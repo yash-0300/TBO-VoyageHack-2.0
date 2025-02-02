@@ -1,5 +1,7 @@
 # TBO AI-Powered Trip Planner
 
+![Application Home Page](https://github.com/yash-0300/TBO-VoyageHack-2.0/blob/main/TBO-Hotel-Search/Talk-Tap-Snap%20MainPage.jpg)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -34,11 +36,11 @@ Imagine a world where finding your dream stay is as effortless as having a conve
 
 ## Diagram
 
-![Architecture and User Flow]()
+![Architecture and User Flow](https://github.com/yash-0300/TBO-VoyageHack-2.0/blob/main/TBO-Hotel-Search/Talk-Tap-Snap.png)
 
 ## Screenshot
 
-![Application Home Page]()
+![Application Home Page](https://github.com/yash-0300/TBO-VoyageHack-2.0/blob/main/TBO-Hotel-Search/Talk-Tap-Snap%20MainPage.jpg)
 
 ## Contributing
 
